@@ -143,7 +143,7 @@ Legacy `.php` URLs (e.g. `/products.php`) remain supported for backward compatib
 
 ## Repository
 
-GitHub: [https://github.com/SufiyanShahidDev/Market-Link](https://github.com/SufiyanShahidDev/Market-Link)
+GitHub: [https://github.com/Ayaanmaniar/Market-Link](https://github.com/Ayaanmaniar/Market-Link)
 
 ---
 
